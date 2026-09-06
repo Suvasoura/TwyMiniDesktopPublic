@@ -366,7 +366,7 @@ Built with ❤️ by **TwyNexa Labs**.
 
 * 🖥️ **Desktop Download:** https://twyminidesk.web.app
 * 🌐 **TwyMini Web:** https://twymini.netlify.app
-* 💻 **GitHub:** https://github.com/Suvasoura/TwyMiniDesktop
+* 💻 **GitHub:** https://github.com/Suvasoura/TwyMiniDesktopPublic
 
 ---
 
