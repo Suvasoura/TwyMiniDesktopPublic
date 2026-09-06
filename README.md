@@ -1,7 +1,7 @@
 # TwyMini Desktop
 
 <p align="center">
-  <img src="https://twymini.netlify.app/favicon.ico" alt="TwyMini Logo" width="96">
+  <img src="https://twymini.netlify.app/icon.png" alt="TwyMini Logo" width="96">
 </p>
 
 <h1 align="center">TwyMini Desktop</h1>
